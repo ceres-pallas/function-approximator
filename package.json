@@ -1,0 +1,24 @@
+{
+  "name": "function-approximator",
+  "version": "0.0.0",
+  "description": "A library to perform function approximation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceres-pallas/function-approximator.git"
+  },
+  "keywords": [
+    "AI",
+    "function",
+    "approximation"
+  ],
+  "author": "Robin van Kaathoven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceres-pallas/function-approximator/issues"
+  },
+  "homepage": "https://github.com/ceres-pallas/function-approximator"
+}
